@@ -1,3 +1,13 @@
+#-------------------------------------------------------------------------
+# AUTHOR: James Avila
+# FILENAME: db_connection.py
+# SPECIFICATION: This file acts as the back-end for this project. It establishes the
+# connection to the database and each of the 4 sql tables and ensures it is accessible
+# to the front end for CRUD operations. Additionally it manages the index of terms in-
+# order to provided an inverted index to the user.
+# FOR: CS 4250- Assignment #2
+# TIME SPENT:  6 hours
+#-----------------------------------------------------------*/
 import psycopg2
 from psycopg2.extras import DictCursor
 

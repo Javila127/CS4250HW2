@@ -1,9 +1,10 @@
 #-------------------------------------------------------------------------
 # AUTHOR: James Avila
 # FILENAME: index.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: This file acts as the front-end for this project. It prompts the user with
+# a menu of CRUD operations for the document/index databases.
 # FOR: CS 4250- Assignment #2
-# TIME SPENT: 6 Hours
+# TIME SPENT:  N/A for index.py
 #-----------------------------------------------------------*/
 
 #importing some Python libraries
